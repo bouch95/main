@@ -1,6 +1,7 @@
 .header{
   background-color: #ccc;
-  
+  length: 30px;
+}
 
 .color-red{
   text-color="red";

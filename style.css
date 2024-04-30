@@ -1,3 +1,4 @@
+
 .page-head{
   background-color: #ccc;
   heigth: 80px;
@@ -20,7 +21,14 @@
   a:hover   { color: green; }
   a:active  { color: pink;  }
 }
-.btn {
+.foot{
+  background-color: #fff
+  font-size: 16px;
+  text-align: center;  
+  font-family: arial, sans-serif;
+} 
+  
+  .btn {
   display: inline-block;
   font-family: arial, sans-serif;
   font-size: 16px;

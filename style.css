@@ -3,12 +3,15 @@
   background-color: #ccc;
   heigth: 80px;
 }
-
+.head-border{
+  background-color: #2d6db6;
+  margin: 50px;
+}
 .color-red{
-  text-color="red";
+  text-decoration-color:"red";
 }
 .center{
-  height: 50px
+  height: 50px;
   text-align: center;
 }
 .center-link{
@@ -22,13 +25,17 @@
   a:hover   { color: green; }
   a:active  { color: pink;  }
 }
+.t-indent{
+  text-indent: 40px;
+}
 .foot{
-  background-color: #fff
+  background-color: #2d6db6;
   font-size: 16px;
   text-align: center;  
   font-family: arial, sans-serif;
   margin: 40px;
 } 
+
   
   .btn {
   display: inline-block;

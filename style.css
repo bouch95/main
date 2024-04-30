@@ -9,6 +9,16 @@
 .center{
   text-align: center;
 }
+.center-link{
+  a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  }
+  a:link    { color: blue;  }
+  a:visited { color: red;   }
+  a:hover   { color: green; }
+  a:active  { color: pink;  }
+}
 .btn {
   display: inline-block;
   font-family: arial, sans-serif;

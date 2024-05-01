@@ -1,6 +1,7 @@
 .head-css{
   background-color: #2d6db6;
   font-family: Arial, sans-serif;
+  font-size: 30px;
   padding: 6px 12px;
 }
 
@@ -10,7 +11,6 @@
   margin: 30px;
 }
 .center-link{
-  text-align: center;
   a {
   font-family: Arial, sans-serif;
   font-size: 20px;

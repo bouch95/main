@@ -1,11 +1,10 @@
 .head-css{
   background-color: #2d6db6;
   font-family: Arial, sans-serif;
-  font-size: 30px;
+  font-size: 50px;
+  text-align: center;
   padding: 6px 12px;
 }
-
-
 .center{
   text-align: center;
   margin: 30px;
@@ -26,6 +25,7 @@
   font-size: 16px;
   text-align: center;  
   font-family: arial, sans-serif;
+  padding: 6px 12px
 } 
  
 .btn {

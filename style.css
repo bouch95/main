@@ -1,12 +1,13 @@
 .head-css{
   background-color: #2d6db6;
-  font-family: arial, sans-serif;
+  font-family: Arial, sans-serif;
   padding: 6px 12px;
 }
 
 
 .center{
   text-align: center;
+  margin: 30px;
 }
 .center-link{
   text-align: center;

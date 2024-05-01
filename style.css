@@ -1,5 +1,7 @@
 .head-css{
   background-color: #2d6db6;
+  font-family: arial, sans-serif;
+  padding: 6px 12px;
 }
 
 
@@ -23,7 +25,6 @@
   font-size: 16px;
   text-align: center;  
   font-family: arial, sans-serif;
-  margin: 40px;
 } 
  
 .btn {
